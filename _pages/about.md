@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a>.
 
@@ -31,6 +31,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Qi Lyu** received the B.S. degree in Mechanical Engineering from University of Science and Technology Beijing (USTB), Beijing, China, in 2024. He then studied foundational courses at the University of Science and Technology of China (USTC), Hefei, China  as a joint Ph.D student for a year. He is currently pursuing the Ph.D. degree with the State Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences. He is also with the University of Chinese Academy of Sciences, Beijing, China. His research interests include embodied AI, continuous learning, and computer vision. His co-workers including [Xudong Wang](https://wangxudongsia.github.io/), [Jiahua Dong](https://scholar.google.com/citations?user=xrXqa8AAAAAJ&hl=zh-CN), [Baichen Liu](https://scholar.google.com/citations?user=P8f_TNAAAAAJ&hl=zh-CN).
+**Qi Lyu** received the B.S. degree in Mechanical Engineering from University of Science and Technology Beijing (USTB), Beijing, China, in 2024. He then studied foundational courses at the University of Science and Technology of China (USTC), Hefei, China  as a joint Ph.D student for a year. He is currently pursuing the Ph.D. degree with the State Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences. He is also with the University of Chinese Academy of Sciences, Beijing, China. His advisor is *Prof.* Zhi Han. His research interests include embodied AI, continuous learning, and computer vision. His co-workers including [Xudong Wang](https://wangxudongsia.github.io/), [Jiahua Dong](https://scholar.google.com/citations?user=xrXqa8AAAAAJ&hl=zh-CN), [Baichen Liu](https://scholar.google.com/citations?user=P8f_TNAAAAAJ&hl=zh-CN).
 
-**吕奇**于2024年获得北京科技大学(USTB)机械工程学士学位. 随后, 他作为代培博士生在中国合肥的中国科学技术大学(USTC)修读了一年的基础课程. 他目前在中国科学院沈阳自动化研究所机器人与智能系统国家重点实验室攻读博士学位, 同时隶属于中国科学院大学(北京). 他的研究兴趣包括具身人工智能、连续学习及计算机视觉.
+**吕奇**于2024年获得北京科技大学(USTB)机械工程学士学位. 随后, 他作为代培博士生在中国合肥的中国科学技术大学(USTC)修读了一年的基础课程. 他目前在中国科学院沈阳自动化研究所机器人与智能系统全国重点实验室攻读博士学位, 同时隶属于中国科学院大学(北京). 他的研究兴趣包括具身人工智能、持续学习及计算机视觉.
