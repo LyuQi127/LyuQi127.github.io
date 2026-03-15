@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [paper](https://ieeexplore.ieee.org/document/11433505) about Continual Video Instance Segmentation has been accepted by IEEE Transactions on Image Processing (CCF-A, Q1). :sparkles:
+Our [paper](https://ieeexplore.ieee.org/document/11433505) about Continual Video Instance Segmentation has been accepted by **IEEE Transactions on Image Processing (TIP)** (CCF-A, Q1). :sparkles:
