@@ -400,7 +400,7 @@ ninja.data = [{
           section: "News",},{id: "news-we-provide-a-comprehensive-survey-for-world-models-please-refer-to-learning-to-model-the-world-sparkles",
           title: 'We provide a comprehensive survey for World Models, please refer to Learning to...',
           description: "",
-          section: "News",},{id: "news-our-paper-about-continual-video-instance-segmentation-has-been-accepted-by-ieee-transactions-on-image-processing-ccf-a-q1-sparkles",
+          section: "News",},{id: "news-our-paper-about-continual-video-instance-segmentation-has-been-accepted-by-ieee-transactions-on-image-processing-tip-ccf-a-q1-sparkles",
           title: 'Our paper about Continual Video Instance Segmentation has been accepted by IEEE Transactions...',
           description: "",
           section: "News",},{id: "projects-crisp",
