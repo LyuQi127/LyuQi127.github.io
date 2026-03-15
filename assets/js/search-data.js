@@ -391,10 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-seqwalker-sequential-horizon-vision-and-language-navigation-with-hierarchical-planning-has-been-accepted-to-aaai-2026-i-am-honored-to-contribute-as-a-co-author-smile",
+            },},{id: "news-our-paper-seqwalker-sequential-horizon-vision-and-language-navigation-with-hierarchical-planning-has-been-accepted-to-aaai-2026-i-am-honored-to-contribute-as-a-co-author-congratulations-to-xudong-smile",
           title: 'Our paper “SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning” has been accepted to...',
           description: "",
-          section: "News",},{id: "news-our-paper-lifelong-robotic-embodied-navigation-has-been-accepted-by-iclr-2026-ccf-a-i-am-honored-to-contribute-as-a-co-author-smile",
+          section: "News",},{id: "news-our-paper-lifelong-robotic-embodied-navigation-has-been-accepted-by-iclr-2026-ccf-a-i-am-honored-to-contribute-as-a-co-author-congratulations-to-xudong-smile",
           title: 'Our paper “Lifelong Robotic Embodied Navigation” has been accepted by ICLR 2026 (CCF-A)....',
           description: "",
           section: "News",},{id: "news-we-provide-a-comprehensive-survey-for-world-models-please-refer-to-learning-to-model-the-world-sparkles",
