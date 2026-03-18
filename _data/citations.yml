@@ -1,13 +1,13 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-18'
 papers:
-  sQ3G3zgAAAAJ:2osOgNQ5qMEC:
-    citations: 1
-    title: 'Learning to Model the World: A Survey of World Models in Artificial Intelligence'
-    year: '2026'
   sQ3G3zgAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: 'SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning'
+    year: '2026'
+  sQ3G3zgAAAAJ:UeHWp8X0CEIC:
+    citations: 1
+    title: 'Learning to Model the World: A Survey of World Models in Artificial Intelligence'
     year: '2026'
   sQ3G3zgAAAAJ:qjMakFHDy7sC:
     citations: 0
