@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-25'
 papers:
   sQ3G3zgAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: 'SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning'
     year: '2026'
   sQ3G3zgAAAAJ:UeHWp8X0CEIC:
-    citations: 1
-    title: 'Learning to Model the World: A Survey of World Models in Artificial Intelligence'
+    citations: 2
+    title: 'Learning to model the world: A survey of world models in artificial intelligence'
     year: '2026'
   sQ3G3zgAAAAJ:qjMakFHDy7sC:
-    citations: 0
+    citations: 1
     title: Lifelong Embodied Navigation Learning
     year: '2026'
   sQ3G3zgAAAAJ:u-x6o8ySG0sC:
-    citations: 1
+    citations: 3
     title: 'CRISP: Contrastive Residual Injection and Semantic Prompting for Continual Video Instance Segmentation'
     year: '2025'
   sQ3G3zgAAAAJ:u5HHmVD_uO8C:
