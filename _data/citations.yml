@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-04-27'
 papers:
   sQ3G3zgAAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: 'SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning'
     year: '2026'
   sQ3G3zgAAAAJ:UeHWp8X0CEIC:
-    citations: 3
+    citations: 4
     title: 'Learning to model the world: A survey of world models in artificial intelligence'
     year: '2026'
   sQ3G3zgAAAAJ:qjMakFHDy7sC:
@@ -20,4 +20,8 @@ papers:
   sQ3G3zgAAAAJ:u5HHmVD_uO8C:
     citations: 0
     title: 'TDSA-SuperPoint: A Novel SuperPoint Based on Tucker Decomposition With Self-Attention for Scene Matching Navigation'
+    year: '2024'
+  sQ3G3zgAAAAJ:zYLM7Y9cAGgC:
+    citations: 4
+    title: 'Towards super compressed neural networks for object identification: Quantized low-rank tensor decomposition with self-attention'
     year: '2024'
