@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-07-08'
 papers:
   sQ3G3zgAAAAJ:IjCSPb-OGe4C:
-    citations: 2
+    citations: 3
     title: 'SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning'
     year: '2026'
+  sQ3G3zgAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: 'SAB-LVLM: Significance-Aware Binarization for Large Vision-Language Models'
+    year: '2026'
   sQ3G3zgAAAAJ:UeHWp8X0CEIC:
-    citations: 6
+    citations: 8
     title: 'Learning to model the world: A survey of world models in artificial intelligence'
     year: '2026'
   sQ3G3zgAAAAJ:qjMakFHDy7sC:
-    citations: 3
+    citations: 4
     title: Lifelong Embodied Navigation Learning
     year: '2026'
   sQ3G3zgAAAAJ:u-x6o8ySG0sC:
