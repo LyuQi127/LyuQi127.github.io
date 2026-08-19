@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-19'
 papers:
   sQ3G3zgAAAAJ:IjCSPb-OGe4C:
-    citations: 7
+    citations: 8
     title: 'SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning'
     year: '2026'
   sQ3G3zgAAAAJ:Tyk-4Ss8FVUC:
@@ -10,7 +10,7 @@ papers:
     title: 'SAB-LVLM: Significance-Aware Binarization for Large Vision-Language Models'
     year: '2026'
   sQ3G3zgAAAAJ:UeHWp8X0CEIC:
-    citations: 14
+    citations: 15
     title: 'Learning to model the world: A survey of world models in artificial intelligence'
     year: '2026'
   sQ3G3zgAAAAJ:Y0pCki6q_DkC:
@@ -18,7 +18,7 @@ papers:
     title: 'LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action'
     year: '2026'
   sQ3G3zgAAAAJ:qjMakFHDy7sC:
-    citations: 5
+    citations: 6
     title: Lifelong Embodied Navigation Learning
     year: '2026'
   sQ3G3zgAAAAJ:u-x6o8ySG0sC:
@@ -30,6 +30,6 @@ papers:
     title: 'TDSA-SuperPoint: A Novel SuperPoint Based on Tucker Decomposition With Self-Attention for Scene Matching Navigation'
     year: '2024'
   sQ3G3zgAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: 'Towards super compressed neural networks for object identification: Quantized low-rank tensor decomposition with self-attention'
     year: '2024'
